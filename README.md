@@ -34,13 +34,13 @@ This script automates network or node operations for Blockless Bless Network Bot
 	```
 
 ## Usage
-1. Register to blockless bless network account first, if you dont have you can register [https://bless.network/](https://bless.network/dashboard?ref=FZABS8).
+1. Register to blockless bless network account first, if you dont have you can register [https://bless.network/](https://bless.network/dashboard?ref=Q88W6Q).
 2. Set and Modify `user.txt`. Below how to setup this file, put your B7S_AUTH_TOKEN in the text file, example below:
 	```
 	eyJhbGcixxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 	```
 	To get your token, follow this step:
-	- Login to your blockless account in [https://bless.network/](https://bless.network/dashboard?ref=FZABS8), 
+	- Login to your blockless account in [https://bless.network/](https://bless.network/dashboard?ref=Q88W6Q), 
 	- Go to inspect element, press F12 or right-click then pick inspect element in your browser
 	- Go to application tab - look for Local Storage in storage list -> click `https://bless.network` and you will see your B7S_AUTH_TOKEN.
 	- or you can go Console tab and paste this 
