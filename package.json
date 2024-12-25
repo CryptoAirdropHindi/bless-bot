@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zlkcyber/bless-bot.git"
+    "url": "git+https://github.com/CryptoAirdropHindi/bless-bot.git"
   },
   "keywords": [
     "blockless",
@@ -20,10 +20,10 @@
     "https-proxy-agent": "^7.0.5",
     "node-fetch": "^3.3.2"
   },
-  "author": "@zlkcyber",
+  "author": "@CryptoAirdropHindi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Zlkcyber/bless-bot/issues"
+    "url": "https://github.com/CryptoAirdropHindi/bless-bot/issues"
   },
-  "homepage": "https://github.com/Zlkcyber/bless-bot#readme"
+  "homepage": "https://github.com/CryptoAirdropHindi/bless-bot/issues#readme"
 }
