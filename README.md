@@ -22,7 +22,7 @@ This script automates network or node operations for Blockless Bless Network Bot
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Zlkcyber/bless-bot.git
+   git clone https://github.com/CryptoAirdropHindi/bless-bot.git
    ```
 2. Navigate to the project directory:
 	```bash
